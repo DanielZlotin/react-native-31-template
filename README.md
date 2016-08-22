@@ -1,1 +1,1 @@
-#A clean React Native 0.25.1 template project
+#A clean React Native 0.31.0 template project
